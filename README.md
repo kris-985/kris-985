@@ -3,8 +3,11 @@
 ### 👩‍💻 Front-end Developer | JavaScriprt | React |
 
 # About Me
+
 🔹 Technology Enthusiast
+
 🔹 Passionate about coding and pushing software development boundaries
+
 🔹 Interested in both visual and functional aspects of web development
 
 # Technologies and Tools
