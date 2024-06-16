@@ -1,6 +1,6 @@
-🌟 Welcome to my GitHub profile 🌟
+### Welcome to myGitHub profile
 
-👨‍💻 Front-end Developer | JavaScript | React |
+### Front-end Developer | JavaScriprt | React |
 
 # About Me
 🔹 Technology Enthusiast
@@ -27,13 +27,13 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-Reach out to me for collaborations and projects!
+### Reach out to me for collaborations and projects
 
 <a href="https://www.linkedin.com/in/kristiyan-bakalov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-Thank you for visiting! 🙏✨
+### Thank you for visiting!
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kris-985&label=Views&color=1&icon=0&pretty=false" />
