@@ -1,4 +1,4 @@
-### 🌟 Welcome to myGitHub profile 🌟
+### 🌟 Welcome to my GitHub profile 🌟
 
 ### 👩‍💻 Front-end Developer | JavaScriprt | React |
 
