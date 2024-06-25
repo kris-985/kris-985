@@ -2,9 +2,8 @@
 
 ### 👩‍💻 Front-end Developer | JavaScriprt | React |
 
-### 👩‍💻 Here is my website: <a href="https://kristiyan-bakalov.vercel.app/">
-    <img src="път_до_иконката/kb_icon.png" alt="KB Icon">
-</a>
+### 👩‍💻 Here is my website: https://kristiyan-bakalov.vercel.app
+
 
 # About Me
 
