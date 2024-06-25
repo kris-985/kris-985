@@ -1,6 +1,6 @@
 ### 🌟 Welcome to my GitHub profile 🌟
 
-### 👩‍💻 Front-end Developer | JavaScriprt | React |
+### 👩‍💻 Front-end Developer | JavaScript | React |
 
 ### 👩‍💻 Here is my website: https://kristiyan-bakalov.vercel.app
 
