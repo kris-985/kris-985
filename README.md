@@ -44,7 +44,8 @@
 
 ### Thank you for visiting!
 
-<a href="https://github.com/kris-985">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=views&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fkris-985%2Fviews" alt="Views" />
+<a href="https://hitcount.io/">
+  <img src="https://hitcount.io/count/kris-985.svg" alt="Hits">
 </a>
+
 
