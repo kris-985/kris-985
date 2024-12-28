@@ -44,6 +44,7 @@
 
 ### Thank you for visiting!
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=kris-985&label=Views&color=1&icon=0&pretty=false" />
+<a href="https://github.com/kris-985">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=views&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fkris-985%2Fviews" alt="Views" />
 </a>
+
